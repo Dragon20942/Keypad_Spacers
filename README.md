@@ -23,7 +23,7 @@ The Momokai Tap Trio Spacer is designed to increase the elevation of the [Momoka
 5. When keypad begins to move, repeat steps 2-3.
 
 ## Disclaimer
-Print has only been tested with PLA.
+You must slice and print the spacer yourself. The print has only been tested with PLA for the 1st version of the Momokai Tap Trio Keypad. Some sanding may be required to achieve proper fitment and grip. See Instructions -> Postprocessing
 
 ## Todo
 * Change grip surface to hexagonal
