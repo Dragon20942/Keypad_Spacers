@@ -3,7 +3,11 @@ STL file and surrounding documentation for spacer
 ![IMG_9582 - Copy](https://user-images.githubusercontent.com/121159543/208869606-64d6751b-da90-4c32-91ec-9cd54708abb5.jpg)
 ## Function
 
-The Momokai Tap Trio Spacer is designed to increase the elevation of the [Momokai Tap Trio Keypad](https://momokai.com/en-ca/products/tap-trio) for optimal gameplay, as well as increasing stability during, especially when using on a deskmat. The drafted grip pattern on the bottom surface improves lateral friction on a deskmat, especially when additional weights are used. The cavity accomodates the extra stabilizing weight while reducing print time and material. A symmetrical design mitigates orientation errors during installation while providing leverage during uninstallation.
+The Keypad Spacer is designed to increase the elevation of the a keypad for optimal gameplay, as well as increasing stability during, especially when using on a deskmat. The drafted grip pattern on the bottom surface improves lateral friction on a deskmat, especially when additional weights are used. The cavity accomodates the extra stabilizing weight while reducing print time and material. A symmetrical design mitigates orientation errors during installation while providing leverage during uninstallation.
+
+## Currently Supported Products:
+1. [Momokai Tap Trio Keypad](https://momokai.com/en-ca/products/tap-trio)
+2. [Wooting UwU](https://wooting.io/uwu)
 
 ## Instructions
 ### Postprocessing
@@ -13,8 +17,8 @@ The Momokai Tap Trio Spacer is designed to increase the elevation of the [Momoka
 
 ### Installation
 1. Install a weight into the cavity (OPTIONAL). 
-2. Install the Momokai Tap Trio into the top corral
-3. Plug in your keypad. 
+2. Install the keypad into the top corral
+3. Plug in the usb cord into the keypad. 
 
 ### Removal
 1. Unplug the keypad.
@@ -27,4 +31,4 @@ The Momokai Tap Trio Spacer is designed to increase the elevation of the [Momoka
 You must slice and print the spacer yourself. The print has only been tested with PLA for the 1st version of the Momokai Tap Trio Keypad. Some sanding may be required to achieve proper fitment and grip. See Instructions -> Postprocessing
 
 ## Todo
-* Change grip surface to hexagonal
+* Change grip surface for Momokai version to hexagonal
