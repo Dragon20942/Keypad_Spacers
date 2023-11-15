@@ -9,6 +9,12 @@ The Keypad Spacer is designed to increase the elevation of the a keypad for opti
 1. [Momokai Tap Trio Keypad](https://momokai.com/en-ca/products/tap-trio)
 2. [Wooting UwU](https://wooting.io/uwu)
 
+## Slicing Recommendations
+1. Printing orientation should be keypad-side-up. This means the part should be rotated 90 degrees on the x-axis from its orientation in the .stl for printing.
+2. Prints tested with a Prusa i3 MK3S+ 3D using 1.75mm PLA, using a 0.1mm detail setting in PrusaSlicer.
+3. Turn on all supports.
+4. No brim or raft needed.
+
 ## Instructions
 ### Postprocessing
 1. Slice and print with supports. 
