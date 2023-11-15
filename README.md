@@ -3,7 +3,7 @@ STL file and surrounding documentation for spacer
 ![IMG_9582 - Copy](https://user-images.githubusercontent.com/121159543/208869606-64d6751b-da90-4c32-91ec-9cd54708abb5.jpg)
 ## Function
 
-The Keypad Spacer is designed to increase the elevation of the a keypad for optimal gameplay, as well as increasing stability during, especially when using on a deskmat. The drafted grip pattern on the bottom surface improves lateral friction on a deskmat, especially when additional weights are used. The cavity accomodates the extra stabilizing weight while reducing print time and material. A symmetrical design mitigates orientation errors during installation while providing leverage during uninstallation.
+The Keypad Spacer is designed to hold a keypad at a customized height and tilt, as well as increasing stability during use, especially when using on a deskmat. The drafted grip pattern on the bottom surface improves lateral friction on a deskmat, especially when additional weights are used. The storage cavity accomodates the extra stabilizing weight while reducing print time and material. A symmetrical design mitigates orientation errors during installation while providing leverage during uninstallation and improving press-fit compliance for installation.
 
 ## Currently Supported Products:
 1. [Momokai Tap Trio Keypad](https://momokai.com/en-ca/products/tap-trio)
