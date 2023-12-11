@@ -1,4 +1,4 @@
-# Momokai TapTrio Spacer
+# Keypad Spacers
 STL file and surrounding documentation for spacer
 ![IMG_9582 - Copy](https://user-images.githubusercontent.com/121159543/208869606-64d6751b-da90-4c32-91ec-9cd54708abb5.jpg)
 ## Function
